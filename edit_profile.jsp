@@ -54,13 +54,10 @@
 							</div>
 
 							<div class="form-group">
-								<label for="exampleInputPassword1">Password</label> <textarea
+								<label for="exampleInputPassword1">Password</label> <input
 									type="password" class="form-control" id="exampleInputPassword1"
-									name="password"  pattern="[0-9]{10}" maxlength="10" size="10s" required="required"></textarea>
+									name="password"  required="required"/>
 							</div>
-							
-							<textarea name="message"  required placeholder="Enter Address"></textarea>
-
 
 							<div class="text-center">
 								<button type="submit" class="btn btn-primary">Update</button>
