@@ -8,5 +8,5 @@ The E-Book Management System is designed to facilitate the online buying and sel
 ![image](https://github.com/Rohit-Jagadale/E-Book-Management-System/assets/163968622/e75674a2-421d-445d-8ed8-7990696a0c29)
 
 # Registration Page
-![image](https://github.com/Rohit-Jagadale/E-Book-Management-System/assets/163968622/d2db5316-b8b4-432d-a6f3-5cd227eed392)
+![Uploading image.png…]()
 
